@@ -1,8 +1,4 @@
-<project name="FinalBuild" default="hello">
-<target name="hello">
-        <echo message="Hello, Ant!"/>
-    </target>
-</project>
+
 <!--
 functionality want to include inside this script file 
 1. compile and create jar from pos_desktop
