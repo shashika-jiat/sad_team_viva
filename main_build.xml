@@ -1,0 +1,18 @@
+<project name="FinalBuild" default="hello">
+<target name="hello">
+        <echo message="Hello, Ant!"/>
+    </target>
+</project>
+<!--
+functionality want to include inside this script file 
+1. compile and create jar from pos_desktop
+2. compile and create jar from pos_server 
+3. move jar pos desktop and pos server and build dependencies to build directory 
+4. build android apk from flutter project 
+5. move that to build folder 
+6. create temp folder inside build folder 
+7. genarate exe starup binary 
+8. move binary to build folder 
+9. move java runtime to build folder 
+10. crete msi installer to complete app
+-->
