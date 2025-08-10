@@ -1,4 +1,4 @@
-# Point of Sale (POS) System with Mobile Barcode/QR Scanner and Java Server
+# Point of Sale (POS) System with Mobile Barcode/QR Scanner 
 
 ## Overview
 
