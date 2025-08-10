@@ -44,9 +44,9 @@ Each team member contributed to design, implementation, and testing of their res
 ---
 
 ## 📁 Project Structure
-/POS-System
-├── TeamADesktop/ # Team 1 - Desktop POS App (NetBeans project)
-├── TeamBDesktop/ # Team 2 - Desktop POS App (NetBeans project)
+Pos_desktop.
+ |-- TeamADesktop (team 1 project) 
+ |-- TeamBDesktop (team 2 project)
 
 
 
